@@ -1,6 +1,7 @@
 # OntoGPT Machine Annotation Service
 
-The idea of this project is to annotate information from the DiSSCover platform using OntoGPT to extract ontologies.
+The idea of this project is to annotate information from the [DiSSCover platform](https://sandbox.dissco.tech/) using OntoGPT to extract ontologies.
+
 
 ## Steps:
 
